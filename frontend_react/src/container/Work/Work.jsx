@@ -52,6 +52,7 @@ const Work = () => {
           "LARAVEL",
           "JAVA",
           "C++",
+          "C#",
           "WORDPRESS",
           "All",
         ].map((item, index) => (
