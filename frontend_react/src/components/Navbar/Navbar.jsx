@@ -21,7 +21,7 @@ const Navbar = () => {
           </li>
         ))}
       </ul>
-      {/* Add Login Section */}
+      {/* Add Login Section for navigation */}
       <ul className="login">
         <div>
           <a href="https://sithum-portfolio.sanity.studio/desk">
